@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-213-trellis-frontend-add-real-time-webhook-alert",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-213-trellis-frontend-add-real-time-webhook-alert": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-213-trellis-frontend-add-real-time-webhook-alert",
+    "origin"
+  ]
+}
